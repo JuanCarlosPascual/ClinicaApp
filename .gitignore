@@ -1,0 +1,50 @@
+﻿### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.kotlin
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Java compiled files ###
+*.class
+*.jar
+*.war
+*.ear
+
+### Vim swap files ###
+*.swp
+*.swo
+
+### Database files (carpeta db) ###
+db/*.csv
+db/*.json
+db/*.xml
+db/*.txt
